@@ -1,0 +1,14 @@
+header{
+color: blue;
+background-color: yellow;
+}
+nav{
+    background-color: cadetblue;
+}
+h6{
+    font-size: 35px; /*Se puede modificar*/
+    background-color: bisque;
+}
+h1{
+    color: rgb(14, 52, 177);
+}
